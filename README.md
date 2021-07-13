@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @malcardona
-- 👀 I’m interested in Science Programing
+- 👀 I’m interested in Scientific Programing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @maladinoc (twiter)
